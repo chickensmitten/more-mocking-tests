@@ -12,3 +12,4 @@ In case you're working with such a library, instead of a global value, you can m
 
 ## JSDOM and Happy-DOM
 testing front end code and projects by emulating it with JSDOM and Happy-DOM. Vitest only has Happy-DOM
+use a 3rd party library, https://testing-library.com to make testing easier
